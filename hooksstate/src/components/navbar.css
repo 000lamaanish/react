@@ -1,0 +1,11 @@
+.navbar {
+
+    /* ✅ Ensure navbar takes full width */
+    display: flex;
+    justify-content: space-between;
+    background: blanchedalmond;
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+}

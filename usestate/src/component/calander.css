@@ -1,0 +1,29 @@
+.calendar-container {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.react-calendar {
+    width: 100%;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.react-calendar__tile--active {
+    background: #007bff !important;
+    color: white;
+    border-radius: 5px;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 16px;
+}

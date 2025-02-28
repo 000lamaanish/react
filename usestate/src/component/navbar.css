@@ -1,0 +1,22 @@
+nav,
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    gap: 40px;
+}
+
+.navbar {
+    justify-content: flex-end;
+    /* Moves navbar to the right */
+    align-items: center;
+    padding: 0;
+    margin-top: 0;
+    background-color: antiquewhite;
+}
